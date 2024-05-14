@@ -1,1 +1,7 @@
-You only need to download the .pkl, .pth, and prediction.py file. Hopefully it will work
+On the PI side, download all files other than images and train.py. 
+
+Run the prediction.py, which will make prediction on selected images in image_test folder.
+
+Hopefully it will work. 
+
+Will update the webcam version later.
